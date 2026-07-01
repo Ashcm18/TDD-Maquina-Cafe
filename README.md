@@ -12,6 +12,9 @@ Este proyecto implementa una máquina dispensadora de café utilizando la metodo
 - Validación de tamaños de vaso.
 - Pruebas automatizadas utilizando Python y unittest.
 
+## Nueva funcionalidad
+Se agregó la selección de tamaño de vaso utilizando TDD.
+
 ## Tecnologías utilizadas
 - Python
 - unittest
