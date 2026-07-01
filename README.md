@@ -25,5 +25,9 @@ Se agregó la selección de tamaño de vaso utilizando TDD.
 ## Pipeline CI/CD
 El proyecto cuenta con un pipeline de Integración Continua configurado con GitHub Actions, que ejecuta automáticamente las pruebas cada vez que se realiza un push o un pull request.
 
+## Nueva funcionalidad
+
+Se agregó la selección de tamaño de vaso utilizando TDD.
+
 ## Autor
 Ashley Michel Cabrera Mena 2024-1276
